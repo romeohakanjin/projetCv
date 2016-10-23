@@ -10,6 +10,8 @@ header div.row div{
 }
 iframe.google{
 	border:0;
+	width: 100%;
+	height: 300;
 }
 .p-ville{
 	font-family: 'Nothing You Could Do', cursive!important;
