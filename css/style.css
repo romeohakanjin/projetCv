@@ -1,0 +1,125 @@
+body{
+	min-height: 100%;
+	min-width: 100%;
+	font-family: 'Titillium Web', sans-serif!important;
+	background-color: #eaeaea;
+}
+
+header div.row div{
+	margin-top: 1%;
+}
+iframe.google{
+	border:0;
+}
+.p-ville{
+	font-family: 'Nothing You Could Do', cursive!important;
+}
+
+html body .row{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+footer .row{
+	background-color: #333333;
+	height: auto;
+	color: white;
+}
+
+iframe{
+	margin-top: 4px;
+}
+
+header, .container{
+	width: 100%;
+}
+
+div.page div.container{
+	background-color: rgb(243, 243, 243);
+	width: 100%;
+}
+
+header .row{
+	background-color: #6ab08e;
+	height: 270px;
+	text-align: center;
+}
+
+.titre-section{
+	text-align: center;
+}
+
+html body a:link
+{
+	text-decoration:none;
+	color: #333;
+}
+
+section{
+	margin-top: 1%;
+	border-radius: 8px;
+}
+
+header p, header address{
+	margin: 0;
+	padding: 0;
+}
+
+.header-img{
+	width: 125px;
+	height: 125px;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	-moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+}
+
+section hr{
+	border-color: #6ab08e;
+}
+
+section.langue div.row{
+	height : 221px;
+}
+
+h1.titre-section{
+	height: 50px;
+	margin-bottom: 0;
+}
+
+.hr-titre{
+	margin-top: 0;
+	border: 1px solid #6ab08e;
+}
+
+section .row div p{
+	margin-left: 3%;
+}
+
+html body footer.footer div.row div a{
+	color: white;
+}
+
+.informatique-img{
+	width: 107px;
+	height: 87px;
+}
+
+strong.key{
+	/*color: #1b95e0;*/
+	color: #598af0;
+}
+
+.section-informatiques{
+	text-align: center;
+}
+
+.section-experience ul{
+	list-style-type: none;
+}
+
+.section-experience h2, .section-experience p, .section-experience ul{
+	text-align: center;
+}
