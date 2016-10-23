@@ -8,7 +8,7 @@ body{
 header div.row div{
 	margin-top: 1%;
 }
-iframe.google{
+html body iframe.google{
 	border:0;
 	width: 100%;
 	height: 300;
