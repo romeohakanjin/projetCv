@@ -125,3 +125,10 @@ strong.key{
 .section-experience h2, .section-experience p, .section-experience ul{
 	text-align: center;
 }
+
+@media (min-width: 1200px) {
+ 
+  .imgk{
+		max-width:1170px;
+	}
+}
